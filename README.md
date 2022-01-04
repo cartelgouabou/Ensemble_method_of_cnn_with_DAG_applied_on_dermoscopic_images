@@ -23,7 +23,7 @@ We provide several training examples with this repo:
 - To train the HMLoss baseline on long-tailed imbalance with ratio of 100
 
 ```bash
-python cifar_train.py --gpu 0 --imb_type exp --imb_factor 0.01 --loss_type CE --train_rule None
+python 
 ```
 
 
