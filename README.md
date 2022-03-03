@@ -20,7 +20,7 @@ The code is buil with following libraries
 ### Training
 We provide several training examples with this repo:
 
-- To train the HMLoss baseline on long-tailed imbalance with ratio of 100
+- To t
 
 ```bash
 python 
